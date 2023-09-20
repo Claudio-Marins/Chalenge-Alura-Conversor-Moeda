@@ -1,7 +1,7 @@
 package utilities;
 
 import entities.coin.CoinConverter;
-import entities.coin.TemperatureConverter;
+import entities.temp.TemperatureConverter;
 
 public class Converter {
     public double exchangeDolar(double coin, CoinConverter coinConverter) {

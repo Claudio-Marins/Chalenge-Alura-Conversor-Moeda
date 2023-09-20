@@ -1,7 +1,7 @@
 package application;
 
 import entities.coin.RealExchangePrices;
-import entities.coin.TemperatureLogic;
+import entities.temp.TemperatureLogic;
 import utilities.Converter;
 
 import javax.swing.*;

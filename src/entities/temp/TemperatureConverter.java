@@ -1,4 +1,4 @@
-package entities.coin;
+package entities.temp;
 
 public interface TemperatureConverter {
     public double celsiusToFahrenheit(double celsius);

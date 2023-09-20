@@ -1,4 +1,4 @@
-package entities.coin;
+package entities.temp;
 
 public class TemperatureLogic implements TemperatureConverter {
 
