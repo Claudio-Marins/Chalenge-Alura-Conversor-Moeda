@@ -2,7 +2,6 @@ package application;
 
 import utilities.Converter;
 
-import javax.swing.*;
 import java.util.Locale;
 
 
