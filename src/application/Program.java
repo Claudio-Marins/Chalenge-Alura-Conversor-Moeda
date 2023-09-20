@@ -8,7 +8,6 @@ import java.util.Locale;
 public class Program {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
-        Converter converter = new Converter();
         UI ui = new UI();
         do {
             int escolha = ui.optionUI();
