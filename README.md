@@ -1,12 +1,15 @@
 # Chalenge-Decodificador
 
 <h2>Desafio</h2>
-Desenvolver um conversor de moedas que cumprisse os seguintes requisitos.
+Desenvolver um conversor de moedas que cumprisse os seguintes requisitos:
+<p>
+  
 - Converter de Reais a Dólar.
-- Converter de Reais a Euro.
-- Converter de Reais a Libras Esterlinas.
-- Converter de Reais a Peso argentino.
-- Converter de Reais a Peso Chileno.
+- Converter de Reais a Euro.  
+- Converter de Reais a Libras Esterlinas.  
+- Converter de Reais a Peso argentino.  
+- Converter de Reais a Peso Chileno. 
+</p>
 
 <h2>Descrição</h2>
 O Conversor de Moedas foi criado como parte do desafio e consegue converter Real para outras moedas e Celsius para outros formatos de temperatura.
